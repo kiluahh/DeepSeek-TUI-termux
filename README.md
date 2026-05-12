@@ -1,5 +1,5 @@
 # DeepSeek TUI
-
+![screen](image.png)
 > Terminal coding agent for DeepSeek V4. It runs from the `deepseek` command, streams reasoning blocks, edits local workspaces with approval gates, and includes an auto mode that chooses both model and thinking level per turn.
 
 [简体中文 README](README.zh-CN.md)
